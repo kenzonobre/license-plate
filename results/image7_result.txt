@@ -1,0 +1,3 @@
+Detected license plates (easyocr) in frame 1:
+EUZ0135 (valid plate)
+

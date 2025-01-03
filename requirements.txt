@@ -1,0 +1,5 @@
+click
+pytesseract
+easyocr
+ultralytics
+opencv-python

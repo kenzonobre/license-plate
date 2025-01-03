@@ -1,0 +1,77 @@
+Detected license plates (easyocr) in frame 1:
+XU5IYSU (invalid plate)
+TAI3MRU (invalid plate)
+
+Detected license plates (easyocr) in frame 2:
+SU (invalid plate)
+3HAI3MIRU (invalid plate)
+
+Detected license plates (easyocr) in frame 3:
+31AI3MRU (invalid plate)
+HIT5IYSU (invalid plate)
+
+Detected license plates (easyocr) in frame 4:
+3HAI3NIRU (invalid plate)
+1WSITSU (invalid plate)
+
+Detected license plates (easyocr) in frame 5:
+HWSIVSU (invalid plate)
+1CTJMAIJ}RU (invalid plate)
+
+Detected license plates (easyocr) in frame 6:
+HMSIVSU (invalid plate)
+IAI3IIRU (invalid plate)
+
+Detected license plates (easyocr) in frame 7:
+HIHSIVSU (invalid plate)
+HTAIJIIRU (invalid plate)
+
+Detected license plates (easyocr) in frame 8:
+HIV5IYSU (invalid plate)
+ITATJNRU (invalid plate)
+
+Detected license plates (easyocr) in frame 9:
+HMSIVSU (invalid plate)
+IAIJNRU (invalid plate)
+
+Detected license plates (easyocr) in frame 10:
+HWSIVSU (invalid plate)
+IAI3NFU (invalid plate)
+
+Detected license plates (easyocr) in frame 11:
+XIVSIVSU (invalid plate)
+F0AI3MRU (invalid plate)
+
+Detected license plates (easyocr) in frame 12:
+II8SIVSU (invalid plate)
+IAIJMRU (invalid plate)
+
+Detected license plates (easyocr) in frame 13:
+HMSIVSU (invalid plate)
+IAIJNRU (invalid plate)
+
+Detected license plates (easyocr) in frame 14:
+HIMS}VSU (invalid plate)
+IYAIJRU (invalid plate)
+
+Detected license plates (easyocr) in frame 15:
+IIHSIVSU (invalid plate)
+IAIJRL (invalid plate)
+IAIJMRU (invalid plate)
+
+Detected license plates (easyocr) in frame 16:
+IIBSIVSU_ (invalid plate)
+QTATJNIRU (invalid plate)
+
+Detected license plates (easyocr) in frame 17:
+IIMSIVSU (invalid plate)
+1AI3TRU (invalid plate)
+
+Detected license plates (easyocr) in frame 18:
+HIMSI.VSU (invalid plate)
+1AI3TRU (invalid plate)
+
+Detected license plates (easyocr) in frame 19:
+UBSI.VSU (invalid plate)
+IAI3NRU (invalid plate)
+
